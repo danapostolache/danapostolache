@@ -1,0 +1,8 @@
+Student name: Dana Postolache
+Student number: 692480
+Student class: IT1A
+
+<!---
+danapostolache/danapostolache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
